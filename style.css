@@ -1,5 +1,5 @@
 .see{
-    border: 0px black solid;
+    border: 1px black solid;
 }
 .main_body{
     border: 1px blue solid;
@@ -23,18 +23,5 @@ h1{
 }
 textarea{
     width: 100%;
-    min-height: 200px;
     box-sizing: border-box;
-}
-
-h5{
-    text-align: center;
-}
-
-button{
-    margin-top: 10px;
-    margin-bottom: 10px;
-
-    min-width: 80px;
-    min-height: 60px;
 }
